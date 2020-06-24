@@ -65,6 +65,8 @@ public class LoginActivity extends AppCompatActivity {
                     }
                 });
         AlertDialog ok = builder.create();
+
+
         ok.show();
 
     }
